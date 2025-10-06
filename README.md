@@ -40,6 +40,14 @@ source .venv/bin/activate           # macOS/Linux
 3. Install Python dependencies
 bash
 pip install -r requirements.txt
+
+(streamlit
+langchain
+langchain-community
+chromadb
+sentence-transformers
+pypdf)
+
 4. Install Ollama and pull the model
 Download Ollama for your OS
 
@@ -116,3 +124,4 @@ Contact & Support
 Author: Rithvik
 
 Email: rithvik158@gmail.com
+
