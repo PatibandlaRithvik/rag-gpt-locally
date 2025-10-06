@@ -41,11 +41,11 @@ source .venv/bin/activate           # macOS/Linux
 bash
 pip install -r requirements.txt
 
-(streamlit
-langchain
-langchain-community
-chromadb
-sentence-transformers
+(streamlit,
+langchain,
+langchain-community,
+chromadb,
+sentence-transformers,
 pypdf)
 
 4. Install Ollama and pull the model
@@ -124,4 +124,5 @@ Contact & Support
 Author: Rithvik
 
 Email: rithvik158@gmail.com
+
 
